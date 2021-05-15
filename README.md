@@ -16,7 +16,7 @@ SmartDrummer es un analista de ritmos de batería que analiza la frecuencia de l
 GUI
 
 ### Clase 2:
-Logica(core)
+Lógica (core)
 
 ### Clase 3:
 Utilidades
