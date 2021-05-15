@@ -1,7 +1,9 @@
 # SmartDrummer
-Smart drummer
 
-#1 parte   Patron perfecto 
+SmartDrummer es un analista de ritmos de batería que analiza la frecuencia de los distintos instrumentos de un patrón de batería, cálcula el menor patrón común y muestra el resultado de forma gráfica.
+
+## Parte 1
+> **Patron perfecto**
 
 - Orientrado a Objetos
 
@@ -10,13 +12,18 @@ Smart drummer
 - Pruebas de rendimeinto ( puede quedar para parte 2)
 
 
-##Clase 1 GUI
+### Clase 1:
+GUI
 
-##Clase 2 Logica(core)
+### Clase 2:
+Logica(core)
+
+### Clase 3:
+Utilidades
 
 
-##Clase 3 utilidades
 
 
-#Parte 2  Implementar ML
-
+## Parte 2
+> **Patrón Humano**
+- Implementar ML
