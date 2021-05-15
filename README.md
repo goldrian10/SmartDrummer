@@ -27,3 +27,4 @@ Utilidades
 ## Parte 2
 > **Patrón Humano**
 - Implementar ML
+- Comparar canciones grabadas con lo que estoy tocando
